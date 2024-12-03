@@ -1,3 +1,2 @@
 
-# todo_list
-# todo_list-with-django
+# todo_list-with-django-rest-framework
