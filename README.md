@@ -41,4 +41,7 @@ To install and set up the project, follow these steps:
     
         python manage.py runserver
 
+## Create superuser for login DjangoAdmin
+Run the Command:
 
+         python manage.py createsuperuser
