@@ -20,6 +20,7 @@ To install and set up the project, follow these steps:
        git clone https://github.com/Caliber24/todo_list_with_DRF.git
        cd todo_list_with_DRF
 
+
 2. Create a virtual environment:
 
         
@@ -27,19 +28,24 @@ To install and set up the project, follow these steps:
         source myenv/bin/activate  # For Linux or macOS
         myenv\Scripts\activate  # For Windows
 
+
 3. Install dependencies:
     
         pip install -r requirements.txt
 
-4.Set up the database:
+
+4. Set up the database:
         
         python manage.py makemigrations
         python manage.py migrate
 
 
-5.Run the development server:
+
+5. Run the development server:
     
         python manage.py runserver
+
+
 
 ## Create superuser for login DjangoAdmin
 Run the Command:
