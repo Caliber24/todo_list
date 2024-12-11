@@ -11,5 +11,6 @@ packaging==24.2
 pytz==2024.2
 PyYAML==6.0.2
 sqlparse==0.5.2
+typing_extensions==4.12.2
 tzdata==2024.2
 uritemplate==4.1.1
